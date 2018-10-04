@@ -1,0 +1,14 @@
+{
+    "toolchain-avr-gcc": [
+      {
+        "sha1": "475b3feed499f4ce1d20b94bea9da85969c49e80", 
+        "system": [
+            "windows", 
+            "windows_amd64", 
+            "windows_x86"
+        ], 
+        "url": "https://github.com/sbx320/toolchain-avr-gcc/raw/master/toolchain-avr-gcc.tar.gz", 
+        "version": "8.2.0"
+      }
+    ]
+}
